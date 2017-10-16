@@ -1,0 +1,8 @@
+{
+  "name": "kirby-panel-media",
+  "description": "Media view for Kirby CMS panel",
+  "author": "Nico Hoffmann <nico@getkirby.com>",
+  "version": "1.0",
+  "type": "kirby-plugin",
+  "license": "MIT"
+}
